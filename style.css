@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url(https://images.unsplash.com/photo-1524169358666-79f22534bc6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80); no-repeat;
+	background-image: linear-gradient(to right,black,gray,black); no-repeat;
 	background-size: cover;
 }
 .box{
