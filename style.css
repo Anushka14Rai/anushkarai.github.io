@@ -2,7 +2,6 @@ body{
 	margin: 0;
 	padding: 0;
 	background-image: linear-gradient(to right,black,gray,black);
-	background-repeat: no-repeat;
 	background-size: cover;
 }
 .box{
@@ -48,8 +47,14 @@ ul{
 	font-size: 50px;
 	transition: all ease-in-out 250ms;
 }
-.box li a:hover{
-color:#b9b9b9;
+#google:hover{
+	color: #C04000;
+}
+#telegram:hover{
+	color: #0080ff;
+}
+#whatsapp:hover{
+	color: #40ff00;
 }
 .topnav{
 	background-color: #333;
