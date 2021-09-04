@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-image: linear-gradient(to right,black,gray,black);
+	background-color: gray;
 	background-size: cover;
 	font-size: 0px;
 }
@@ -26,24 +26,25 @@ body{
   color: white;
 }
 .head{
-	margin-top: 0;
-	padding: 0;
 	height: 200px;
-	background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg); no-repeat;
+	width: 100%;
+	margin: auto;
+	background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX9362559.jpg);
 	text-align: center;
 	font-family: "playfair display";
 	color: black;
+	font-size: 0px;
 }
-.head h1{
-font-size: 50px;
-padding-top: 40px;
+.first{
+	margin: 0;
+	padding: 20px;
+	border: 0;
+	font-size: 50px;
 }
-.head h5{
-	font-size: 25px;
-	padding-bottom: 50px;
+.second{
+	font-size: 30px;
 }
 .view{
-	margin-top: 0;
 	padding-left: 50px;
 }
 .view li {
@@ -54,7 +55,7 @@ padding-top: 40px;
 	height: 50px;
 	width: 50px;
 	text-decoration: none;
-	font-size: 60px;
+	font-size: 0px;
 	list-style: none;
 	transition: all ease-in-out 250ms;
 }
