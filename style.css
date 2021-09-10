@@ -30,7 +30,7 @@ body{
 	font-weight: 100;
 }
 .box p{
-text-align: justify;
+text-align: centre;
 }
 ul{
 	margin: 0;
@@ -51,10 +51,10 @@ ul{
 	color: #C04000;
 }
 #telegram:hover{
-	color: #0080ff;
+	color: #1589FF;
 }
-#whatsapp:hover{
-	color: #40ff00;
+#linkedin:hover{
+	color: #2B65EC;
 }
 .topnav{
 	background-color: #333;
